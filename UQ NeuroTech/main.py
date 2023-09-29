@@ -1,6 +1,7 @@
 from connect import *
 import asyncio
 import time
+import tkinter as tk
 
 class App(object):
 
@@ -218,7 +219,8 @@ class App(object):
 
         elif command == 'display stream data':
             streams_bind()
-            time.sleep(2)
+            root = tk.Tk()
+            root.mainloop()
             streams_unbind()
 
         elif command == 'stop stream':
@@ -229,10 +231,14 @@ class App(object):
 
         elif command == 'train':
             self.c.query_profile()
+            self.c.bind_async(self.loop, stream_sub_done = self.receive_message)
+            self.loop.run_until_complete(self.wait_for_event())
+            self.c.unbind(self.receive_message)
 
         elif command == 'display train data':
             self.c.bind(new_com_data=self.on_new_com_data)
-            time.sleep(2)
+            root = tk.Tk()
+            root.mainloop()
             self.c.unbind(self.on_new_com_data)
 
         # Quit
