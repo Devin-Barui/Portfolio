@@ -22,4 +22,18 @@ This project was completed for Arealytics (a real-estate data solutions company)
 
 The project was very well received by the company.
 
+## PPE Honours Thesis (The Incompletenes of Learning: An Epistemological Study of Machine Learning)
+
+- PPES4202 - "PPE Thesis", Honours Thesis.pdf
+
+A copy of my Honours thesis completed for my Bachelor of Politics, Philosophy and Economics. This paper sought to elucidate the epistemological foundations of Machine Learning and answer the questions of what we may and may not expect A.I. to uncover as technology progress based on the limits of our knowledge. In this thesis, I go in-depth into the mathematical-philosophical foundations of machine learning to demonstrate how our de facto knowledge influences machine learning models. 
+
+This thesis earned me a first class honours for my Honour's degree but was not satisfiably 'an original contribution to the literature' as deemed by the marker.
+
+
+
+
+
+
+
 
