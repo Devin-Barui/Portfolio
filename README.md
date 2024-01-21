@@ -30,10 +30,9 @@ A copy of my Honours thesis completed for my Bachelor of Politics, Philosophy an
 
 This thesis earned me a first class honours for my Honour's degree but was not satisfiably 'an original contribution to the literature' as deemed by the marker.
 
+## Real Estate App (Work-in-Progress)
 
-
-
-
+This is a project I am currently working on. Included is a Jupyter notebook which shows the webscraping collection as well as uploading the output to s3.
 
 
 
