@@ -1,6 +1,6 @@
 # Portfolio
 
-This portfolio represents some of the completed projects I have undertaken as well as those which are in the process of being updated.
+This portfolio contains some of the completed projects I have undertaken as well as those which are in the process of being updated.
 
 Currently the projects involved in this portfolio are:
 
