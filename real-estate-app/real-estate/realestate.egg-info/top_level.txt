@@ -1,2 +1,0 @@
-real_estate
-real_estate_tests
