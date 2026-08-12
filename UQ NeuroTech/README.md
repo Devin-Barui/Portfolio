@@ -3,10 +3,13 @@
 - connect.py
 - main.py
 
-Application files for UQ NeuroTech Mind-Bot Race project.
+This repo showcases the files I authored for the UQ NeuroTech club's flagship event, the mind-bot race.
 
+When I was first introduced to this concept, my friend Seijun Stokes told me "Basically, we're going to get a bunch of EEG headsets, put them on our head and then race robots with them". As childishly epic as that sounds, I am pleased to say that for the past two years we have managed to achieve just that.
 
-The Mind-Bot Race is a project by UQ NeuroTech which uses the eeg stream data from BrainWear devices to operate a robotic car. The point of the event is to set teams against each other and have those teams compete on the basis of functionality and the sophistication of their methodology (i.e. teams will get more points for crossing the finish line using more sophisticated mental commands).
+Personally, one of my favourite moments from this event was watching one of the participants effortlessly twist their hand to cause the robot cars to turn left and right; It was like watching the force in action! 
+
+If this idea also sounds epic to you I highly recommend you give it a go :D
 
 ![Project logo](./img/1718948052839.jpg)
 ![Project logo](./img/1718948053574.jpg)
