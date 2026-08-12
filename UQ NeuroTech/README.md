@@ -9,6 +9,11 @@ When I was first introduced to this concept, my friend Seijun Stokes told me "Ba
 
 Personally, one of my favourite moments from this event was watching one of the participants effortlessly twist their hand to cause the robot cars to turn left and right; It was like watching the force in action! 
 
+To run this, you will need:
+- A EMOTIV Cortex BrainWear device (the application is built around interfacing with their proprietary software)
+- EMOTIV Cortex API & Brainwear App (there are built in simulators to do a dry-run)
+- Python (`pip install -r requirements.txt` and then run `main.py`)
+
 If this idea also sounds epic to you I highly recommend you give it a go :D
 
 ![Project logo](./img/1718948052839.jpg)
