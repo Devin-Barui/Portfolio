@@ -1,5 +1,7 @@
 # UQ NeuroTech Mind-Bot race.
 
+**PREFACE: This was written at a time before AI completely destroyed the joys of manually writing code - no, genuinely.**
+
 - connect.py
 - main.py
 
