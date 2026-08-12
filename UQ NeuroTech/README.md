@@ -14,6 +14,8 @@ To run this, you will need:
 - EMOTIV Cortex API & Brainwear App (there are built in simulators to do a dry-run)
 - Python (`pip install -r requirements.txt` and then run `main.py`)
 
+*Note - Don't forget to write a .env file and put your `APP_CLIENT_ID` and `APP_SECRET_KEY` in it if you do run it for whatever reason - don't put client secrets in files, dummy!*
+
 If this idea also sounds epic to you I highly recommend you give it a go :D
 
 ![Project logo](./img/1718948052839.jpg)

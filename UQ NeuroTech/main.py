@@ -417,8 +417,8 @@ class App(object):
 
 def main():
     
-    your_app_client_id = dotenv.get_key("app_client_id")
-    your_app_client_secret = dotenv.get_key("app_client_secret")
+    your_app_client_id = dotenv.get_key("APP_CLIENT_ID")
+    your_app_client_secret = dotenv.get_key("APP_CLIENT_SECRET")
 
     client = App(your_app_client_id, your_app_client_secret)
 
